@@ -1,0 +1,21 @@
+# Binaries
+proxy_rotator
+proxy-rotator
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Logs and system
+*.log
+.DS_Store
+.vscode/
+.idea/

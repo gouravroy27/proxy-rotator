@@ -1,0 +1,6 @@
+# Core scripts (filter_proxies.py, test_suite.py) use standard library modules.
+# Optional dependencies if you plan to write custom python scripts or scrapers through the proxy:
+requests[socks]>=2.31.0
+PySocks>=1.7.1
+urllib3>=2.0.0
+certifi>=2024.0.0
